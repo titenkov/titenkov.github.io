@@ -1,1 +1,1 @@
-# titenkov.github.io
+# titenkov.com

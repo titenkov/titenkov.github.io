@@ -5,8 +5,8 @@
     <description>The site of Full-Stack Developer – Pavel Titenkov.</description>
     <link>http://titenkov.github.io/</link>
     <atom:link href="http://titenkov.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Sep 2015 16:20:00 +0300</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2015 16:20:00 +0300</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2015 22:19:19 +0300</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2015 22:19:19 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -25,7 +25,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/001-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/001.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/001.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -36,7 +36,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/002-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/002.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/002.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -47,7 +47,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/003-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/003.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/003.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -58,7 +58,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/004-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/004.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/004.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -69,7 +69,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/005-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/005.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/005.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -80,7 +80,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/006-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/006.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/006.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -91,7 +91,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/007-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/007.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/007.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -102,7 +102,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/009-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/009.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/009.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -113,7 +113,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/008-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/008.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/008.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -124,7 +124,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/010-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/010.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/010.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -135,7 +135,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/011-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/011.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/011.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -146,7 +146,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-25-mallorca-pt-5/012-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/012.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-25-mallorca-pt-5/012.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
 </description>
@@ -166,7 +166,7 @@
 &lt;p&gt;Очень скоро я сюда добавлю текст)&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.00793902826294%&quot;&gt;
+&lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
                     &lt;source data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/001.jpg&quot; media=&quot;(min-width: 1440px)&quot; /&gt;
                     &lt;source data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/001-desk.jpg, http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/001.jpg 2x&quot; media=&quot;(min-width: 1216px)&quot; /&gt;
@@ -175,7 +175,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/001-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/001.jpg&quot; width=&quot;3149&quot; height=&quot;2362&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/001.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -186,7 +186,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/005-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/005.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/005.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -197,7 +197,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/003-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/003.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/003.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -208,7 +208,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/004-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/004.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/004.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -219,7 +219,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/002-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/002.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/002.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -230,7 +230,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/006-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/006.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/006.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -241,7 +241,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/007-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/007.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/007.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -252,7 +252,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/008-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/008.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/008.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -263,7 +263,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/009-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/009.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/009.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -274,7 +274,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/010-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/010.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/010.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -285,7 +285,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/011-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/011.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/011.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -296,7 +296,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/012-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/012.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/012.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -307,7 +307,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/013-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/013.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/013.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -318,7 +318,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/014-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/014.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/014.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -329,7 +329,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/015-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/015.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/015.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -340,7 +340,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/017-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/017.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/017.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -351,7 +351,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/018-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/018.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/018.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -362,7 +362,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/019-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/019.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/019.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -373,7 +373,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/020-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/020.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/020.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -384,7 +384,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/021-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/021.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/021.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -395,7 +395,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/022-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/022.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/022.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -406,7 +406,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/023-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/023.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/023.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -417,7 +417,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/016-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/016.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/016.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -428,7 +428,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/024-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/024.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/024.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -439,7 +439,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-24-mallorca-pt-4/025-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/025.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-24-mallorca-pt-4/025.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;
 </description>
@@ -468,7 +468,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/001-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/001.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/001.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -479,7 +479,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/004-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/004.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/004.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -490,7 +490,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/003-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/003.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/003.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -501,7 +501,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/002-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/002.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/002.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -512,7 +512,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/005-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/005.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/005.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -523,7 +523,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/008-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/008.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/008.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -534,7 +534,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/007-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/007.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/007.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -545,7 +545,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/006-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/006.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/006.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -556,7 +556,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/009-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/009.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/009.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -567,7 +567,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/010-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/010.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/010.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -578,7 +578,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/011-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/011.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/011.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -589,7 +589,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/012-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/012.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/012.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -600,7 +600,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/013-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/013.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/013.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -611,7 +611,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/014-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/014.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/014.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -622,7 +622,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/015-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/015.jpg&quot; width=&quot;3104&quot; height=&quot;2328&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/015.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -633,7 +633,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/016-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/016.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/016.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -644,7 +644,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/017-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/017.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/017.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -655,7 +655,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/018-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/018.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/018.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -666,7 +666,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/019-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/019.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/019.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -677,7 +677,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/020-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/020.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/020.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -688,7 +688,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/021-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/021.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/021.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -699,7 +699,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/022-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/022.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/022.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -710,7 +710,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/023-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/023.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/023.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -721,7 +721,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/024-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/024.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/024.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -732,7 +732,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/025-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/025.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/025.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -743,7 +743,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/026-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/026.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/026.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -754,7 +754,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/027-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/027.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/027.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -765,7 +765,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/028-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/028.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/028.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -776,7 +776,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/029-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/029.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/029.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -787,7 +787,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/030-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/030.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/030.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -798,7 +798,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/031-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/031.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/031.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -809,7 +809,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-23-mallorca-pt-3/032-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/032.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-23-mallorca-pt-3/032.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
 </description>
@@ -840,7 +840,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/001-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/001.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/001.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -851,7 +851,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/002-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/002.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/002.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -862,7 +862,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/003-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/003.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/003.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -873,7 +873,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/004-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/004.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/004.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -884,7 +884,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/005-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/005.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/005.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -895,7 +895,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/024-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/024.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/024.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -906,7 +906,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/006-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/006.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/006.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -917,7 +917,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/007-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/007.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/007.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -928,7 +928,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/022-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/022.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/022.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -939,7 +939,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/014-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/014.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/014.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -950,7 +950,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/023-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/023.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/023.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -961,7 +961,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/025-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/025.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/025.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -972,7 +972,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/024-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/024.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/024.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -983,7 +983,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/026-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/026.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/026.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -994,7 +994,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/008-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/008.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/008.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1005,7 +1005,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/009-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/009.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/009.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1016,7 +1016,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/016-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/016.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/016.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1027,7 +1027,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/017-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/017.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/017.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1038,7 +1038,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/018-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/018.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/018.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1049,7 +1049,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/019-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/019.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/019.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1060,7 +1060,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/020-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/020.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/020.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1071,7 +1071,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-22-mallorca-pt-2/021-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/021.jpg&quot; width=&quot;2448&quot; height=&quot;3264&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-22-mallorca-pt-2/021.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
 </description>
@@ -1102,7 +1102,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/001-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/001.jpg&quot; width=&quot;2880&quot; height=&quot;2162&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/001.jpg&quot; width=&quot;1440&quot; height=&quot;1081&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1113,7 +1113,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/028-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/028.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/028.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1124,7 +1124,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/003-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/003.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/003.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1135,7 +1135,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/027-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/027.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/027.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1146,7 +1146,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/005-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/005.jpg&quot; width=&quot;2160&quot; height=&quot;2880&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/005.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1157,7 +1157,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/032-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/032.jpg&quot; width=&quot;2160&quot; height=&quot;2880&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/032.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1168,7 +1168,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/006-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/006.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/006.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1179,7 +1179,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/007-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/007.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/007.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1190,7 +1190,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/022-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/022.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/022.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1201,7 +1201,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/014-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/014.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/014.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1212,7 +1212,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/023-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/023.jpg&quot; width=&quot;2160&quot; height=&quot;2880&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/023.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1223,7 +1223,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/025-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/025.jpg&quot; width=&quot;2160&quot; height=&quot;2880&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/025.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1234,7 +1234,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/024-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/024.jpg&quot; width=&quot;2160&quot; height=&quot;2880&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/024.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 133.33333333333331%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1245,7 +1245,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/026-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/026.jpg&quot; width=&quot;2160&quot; height=&quot;2880&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/026.jpg&quot; width=&quot;1080&quot; height=&quot;1440&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1256,7 +1256,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/029-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/029.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/029.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1267,7 +1267,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/030-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/030.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/030.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1278,7 +1278,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/008-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/008.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/008.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1289,7 +1289,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/009-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/009.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/009.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1300,7 +1300,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/016-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/016.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/016.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1311,7 +1311,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/017-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/017.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/017.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1322,7 +1322,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/018-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/018.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/018.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1333,7 +1333,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/019-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/019.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/019.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;island&quot;&gt;&lt;div class=&quot;grid--subtract text--center&quot;&gt;&lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1344,7 +1344,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/020-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/020.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/020.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;
 &lt;div class=&quot;media  js--media  media--half&quot;&gt;&lt;picture class=&quot;media__image-placeholder&quot; style=&quot;padding-bottom: 75.0%&quot;&gt;
                     &lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
@@ -1355,7 +1355,7 @@
                     &lt;img src=&quot;http://titenkov.github.io/assets/img/space.gif&quot; data-srcset=&quot;http://titenkov.github.io/assets/photos/2015-07-21-mallorca-pt-1/021-palm.jpg&quot; class=&quot;image lazyload&quot; /&gt;
                   &lt;/picture&gt;
                   &lt;noscript&gt;
-                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/021.jpg&quot; width=&quot;2880&quot; height=&quot;2160&quot; class=&quot;image&quot; /&gt;
+                    &lt;img src=&quot;assets/photos/2015-07-21-mallorca-pt-1/021.jpg&quot; width=&quot;1440&quot; height=&quot;1080&quot; class=&quot;image&quot; /&gt;
                   &lt;/noscript&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
 
 </description>
