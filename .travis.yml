@@ -14,7 +14,8 @@ script: jekyll build
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - v2
+    - gh-pages
+    - /.*/
 
 env:
   global:
