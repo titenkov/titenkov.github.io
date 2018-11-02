@@ -11,11 +11,11 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: http://titenkov.github.io/
 baseurl: /
 title: Pavel Titenkov
 author: Pavel Titenkov
-description: Personal blog and resume
+description: Hi! I'm Pavel Titenkov - a full-stack engineer with a strong background in computer science
 avatar: profile.png
 email: pavel@titenkov.com
 github: titenkov
@@ -23,8 +23,8 @@ twitter: username
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
-google_analytics:
+#disqus: username
+google_analytics: UA-37777266-2
 
 
 # needed for travis-ci build
