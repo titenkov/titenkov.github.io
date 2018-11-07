@@ -18,14 +18,16 @@ author: Pavel Titenkov
 description: Hi! I'm Pavel Titenkov - a full-stack engineer with a strong background in computer science
 avatar: profile.png
 email: pavel@titenkov.com
+#social
+facebook: pavel.titenkov
+instagram: pavel.titenkov
 github: titenkov
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+linkedin: titenkov
+#twitter: username
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
 google_analytics: UA-37777266-2
-
 
 # needed for travis-ci build
 exclude: [vendor]
